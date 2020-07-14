@@ -8,7 +8,7 @@ The purpose of this project is developed a script to make a web scraping of a we
 
 
 ### Methods Used
-* Data Visualization
+* Web Scraping
 
 
 ### Technologies
@@ -25,7 +25,6 @@ The purpose of this project is developed a script to make a web scraping of a we
 
 - data exploration/descriptive statistics
 - data processing/cleaning
-- statistical modeling
 - writeup/reporting
 - unit tests
 
