@@ -13,7 +13,7 @@ The purpose of this project is developed a script to make a web scraping of a we
 
 ### Technologies
 * Python
-* PostGres
+* PostgreSQL
 * Pandas, jupyter
 * HTML
 * BeautifulSoup
