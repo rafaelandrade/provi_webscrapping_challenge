@@ -1,0 +1,12 @@
+version: '3'
+services:
+  postgres:
+    image: postgis/postgis:9.5-3.0-alpine
+    ports:
+      - '15432:5432'
+    environment:
+      POSTGRES_DB: proviteste
+      POSTGRES_USER: provi
+      POSTGRES_PASSWORD: provi2020
+    volumes:
+      - ./database/data:/var/lib/postgresql/data
